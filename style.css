@@ -1,0 +1,21 @@
+#header{
+	background-color: black;
+	font-family: "Arial";
+	color: white;
+	height: 40px;
+	font-size: 30;
+	text-align: center;
+}
+
+#footer{
+	background-color: black;
+	font-family: "Arial";
+	color: white;
+	height: 20px;
+	font-size: 10;
+	text-align: center;
+}
+
+#body{
+	text-align: center;
+}
